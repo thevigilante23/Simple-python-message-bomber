@@ -1,4 +1,10 @@
 # Message Automation CLI
+## Before Automation Starts
+
+After running the script, you have **10 seconds** to switch to the target application and place your cursor in the desired text field.
+
+The automation will begin automatically after the countdown and send keyboard input to the currently focused window.
+
 
 A lightweight Python command-line tool built with **PyAutoGUI** for learning desktop automation. It allows users to automate keyboard input with configurable messages, repetition counts, and delays.
 
