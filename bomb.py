@@ -23,6 +23,7 @@ Educational Automation Tool"""
       )
 for b in range(10,0,-1):
     print(f"Starting in {b}...")
+    print("place the cursor into the textbox")
 
 time.sleep(10)
 try:
